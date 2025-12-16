@@ -4,6 +4,28 @@
 
 ![Screenshot](./screenshot.png)
 
+## Gallery
+
+<details>
+  <summary>📸 Click to view Screenshots</summary>
+
+  ### Main View
+  ![Main View](./images/Dark1.png)
+  ### Settings
+  ![Settings](./images/Dark2.png)
+  ### Article
+  ![Article](./images/Dark3.png)
+  ### Main View
+  ![Main View](./images/Dark4.png)
+  ### Main View
+  ![Main View](./images/Light1.png)
+  ### Settings
+  ![Settings](./images/Light2.png)
+  ### Article
+  ![Article](./images/Light3.png)
+  ### Main View
+  ![Main View](./images/Light4.png)
+</details>
 
 ## Install
 
