@@ -45,7 +45,6 @@
 1. Download the ZIP from the repository main page.
 2. Unzip the file.
 3. Move the folder to the `p/themes` directory inside your FreshRSS installation.
-4. Ensure the folder is named `Dracula`.
 
 ### Activate
 
