@@ -233,28 +233,28 @@ th {
 }
 
 /*=== Buttons */
-.stick input,
+/* .stick input,
 .stick .btn,
 .group .btn {
 	border-radius: 0;
-}
+} */
 
-.stick .btn:first-child,
+/* .stick .btn:first-child,
 .group .btn:first-child,
 .stick input:first-child,
 .stick select:first-child {
 	border-radius: 3px 0 0 3px;
-}
+} */
 
 .stick .btn-important:first-child {
 	border-right: 1px solid var(--contrast-border-color);
 }
 
-.stick .btn:last-child,
+/* .stick .btn:last-child,
 .group .btn:last-child,
 .stick input:last-child {
 	border-radius: 0 3px 3px 0;
-}
+} */
 
 /* .stick .btn + .btn, */
 /* .group .btn + .btn, */
@@ -346,6 +346,7 @@ filter: invert(8%) sepia(99%) saturate(7064%) hue-rotate(248deg) brightness(99%)
 	color: var(--font-color-light);
 	border: 1px solid var(--contrast-border-color);
 	font-weight: normal;
+	border-radius: 0;
 }
 
 .btn-important:hover {
