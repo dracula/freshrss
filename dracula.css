@@ -943,6 +943,11 @@ border-top: none;
 	font-size: 0.7rem;
 }
 
+.day .name {
+	flex-grow: 1;
+  	text-align: center;
+}
+
 .flux .bottom {
 	font-size: 0.8rem;
 	text-align: center;
