@@ -889,8 +889,8 @@ button:hover .icon,
   border-left: 2px solid var(--contrast-border-color-active);
 
   /* Reset text style */
-  font-style: normal;
-  font-weight: normal;
+  font-style: normal !important;
+  font-weight: normal !important;
 }
 
 /* EXCEPTIONS: UNREAD and CURRENTLY SELECTED articles - Colored icons */
