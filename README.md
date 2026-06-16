@@ -1,6 +1,6 @@
-# Dracula for [Freshrss](https://www.freshrss.org)
+# Dracula for [FreshRSS](https://www.freshrss.org)
 
-> A dark & light theme for [Freshrss](https://www.freshrss.org).
+> A dark & light theme for [FreshRSS](https://www.freshrss.org).
 
 ![Screenshot](./screenshot.png)
 
@@ -11,41 +11,41 @@
 
 ### Main View
 
-![Main View](./screenshots/Dark1.png)
+![Main View](./screenshot/01-dracula-main.png)
 
 ### Settings
 
-![Settings](./screenshots/Dark2.png)
+![Settings](./screenshot/02-dracula-settings.png)
 
 ### Article
 
-![Article](./screenshots/Dark3.png)
+![Article](./screenshot/03-dracula-article.png)
 
 ### Main View
 
-![Main View](./screenshots/Dark4.png)
+![Main View](./screenshot/04-dracula-feed.png)
 
 ### Main View
 
-![Main View](./screenshots/Light1.png)
+![Main View](./screenshot/05-alucard-main.png)
 
 ### Settings
 
-![Settings](./screenshots/Light2.png)
+![Settings](./screenshot/06-alucard-settings.png)
 
 ### Article
 
-![Article](./screenshots/Light3.png)
+![Article](./screenshot/07-alucard-article.png)
 
 ### Main View
 
-![Main View](./screenshots/Light4.png)
+![Main View](./screenshot/08-alucard-feed.png)
 
 </details>
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/freshrss).
+All instructions can be found at [draculatheme.com/freshrss](https://draculatheme.com/freshrss).
 
 ## Team
 
